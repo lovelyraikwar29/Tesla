@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+section #img1{
+    background-image: url("/Images/car1.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#nav{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+}
+#nav div {
+    display: flex;
+ }
+#left_nav{
+    padding-left: 30px;
+    
+}
+.center_nav {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 0px;
+    flex-grow: 1;
+    
+}
+#right_nav{
+    display: flex;
+   justify-content: flex-end;
+   gap: 10px;
+   padding-right: 20px;
+   color: white;
+   
+}
+#btn{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top:380px;
+    gap:3px;
+    
+}
+#txt{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#txt1{
+    color:white;
+    font-size: 50px;
+}
+
+#txt2{
+    color:white;
+    font-size: 30px;
+}
+
+#txt3{
+    color:white;
+    font-size: 25px;
+}
+#img2{
+    background-image: url("/Images/car2.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#img3{
+    background-image: url("/Images/car3.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#img4{
+    background-image: url("/Images/car4.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#img5{
+    background-image: url("/Images/car5.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#img6{
+    background-image: url("/Images/house1.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#img7{
+    background-image: url("/Images/house2.jpeg");
+    height:100vh;
+    width:100vw;
+}
+#img8{
+    background-image: url("/Images/house3.jpeg");
+    height:100vh;
+    width:100vw;
+}
+
+footer{
+    font-size:12px;
+    border:solid;
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 20px 450px;
+}
+
+#button{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top:430px;
+    gap:3px;
+    
+}
+#text{
+    padding-top: 70px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#text1{
+    color:white;
+    font-size: 50px;
+}
+
+#text2{
+    color:white;
+    font-size: 30px;
+}
+#text3{
+    color:white;
+    font-size: 25px;
+}
+
